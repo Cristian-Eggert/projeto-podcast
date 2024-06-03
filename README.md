@@ -6,7 +6,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
-📕[Clique aqui para ouvir]()
+📕[Clique aqui para ouvir](https://github.com/Cristian-Eggert/projeto-podcast/blob/main/Podcast%20Final.mp3)
 
 💻 Tecnologias utilizadas no projeto
 
